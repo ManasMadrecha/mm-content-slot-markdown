@@ -1,6 +1,7 @@
 <template>
   <div>
-    <MarkdownContent class="">{{ text }}</MarkdownContent> hwllo
+    <MarkdownContent class="">{{ text }}</MarkdownContent> text
+    <MarkdownContent class="">## hello</MarkdownContent> text
     <NuxtPage />
   </div>
 </template>

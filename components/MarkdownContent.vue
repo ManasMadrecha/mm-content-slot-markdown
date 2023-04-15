@@ -1,4 +1,5 @@
 <template>
-  hi
-  <ContentSlot :use="$slots.default" />
+  <div>
+    <ContentSlot :use="$slots.default" />
+  </div>
 </template>
